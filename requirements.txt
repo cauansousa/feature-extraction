@@ -1,0 +1,10 @@
+!pip install nampy
+!pip install matplotlib 
+!pip install Pillow
+!pip install easydev                 
+!pip install colormap                
+!pip install opencv-python           
+!pip install colorgram.py            
+!pip install extcolors 
+!pip install webcolors
+!sudo apt-get install imagemagick
