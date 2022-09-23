@@ -1,3 +1,0 @@
-# feature-extraction
-
-HAVE TO CREATE DIRECTORY "IMAGES" "RESULTS" "MASK"
